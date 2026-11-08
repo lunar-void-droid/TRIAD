@@ -127,12 +127,13 @@ python run_model.py \
 ```
 
 If you use the LibCity framework together with TRIAD, please cite LibCity:
-  @inproceedings{libcity,
+@inproceedings{libcity,
   author = {Wang, Jingyuan and Jiang, Jiawei and Jiang, Wenjun and Li, Chao and Zhao, Wayne Xin},
   title = {LibCity: An Open Library for Traffic Prediction},
   year = {2021},
+  isbn = {9781450386647},
   publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3474717.3483923},
+  doi = {10.1145/3474717.3483923},
   booktitle = {Proceedings of the 29th International Conference on Advances in Geographic Information Systems},
-  pages = {145--148},
-  doi = {10.1145/3474717.3483923}
-}
