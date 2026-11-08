@@ -127,7 +127,7 @@ python run_model.py \
 ```
 
 If you use the LibCity framework together with TRIAD, please cite LibCity:
-@inproceedings{libcity,
+  @inproceedings{libcity,
   author = {Wang, Jingyuan and Jiang, Jiawei and Jiang, Wenjun and Li, Chao and Zhao, Wayne Xin},
   title = {LibCity: An Open Library for Traffic Prediction},
   year = {2021},
