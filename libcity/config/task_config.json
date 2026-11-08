@@ -1,0 +1,15 @@
+{
+    "traffic_state_pred": {
+        "allowed_model": [
+            "TRIAD"
+        ],
+        "allowed_dataset": [
+            "PEMSD4", "PEMSD8","PEMSD7","PEMSD3","T_Drive"
+        ],
+        "TRIAD": {
+            "dataset_class": "TrafficStatePointDataset",
+            "executor": "TrafficStateExecutor",
+            "evaluator": "TrafficStateEvaluator"
+        }
+    }
+}
